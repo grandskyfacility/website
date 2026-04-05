@@ -751,7 +751,7 @@ header {
   justify-content: center;
   color: var(--white);
   font-weight: bold;
-  flex-shrink: 0;
+  flex-shrink: 0; 
 }
 
 .service-icon-large.security {
